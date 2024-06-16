@@ -1,6 +1,6 @@
 --simspons house, colour wih garden
 ---- Set Player Name Below:
-local PlayerName = "LocalPlayer"
+local PlayerName = Fjrjihds
 
 -- Script:
 local Tag
